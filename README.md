@@ -1,6 +1,6 @@
 # Projects - Data Analyst Role
 
-This repository contains data analysis projects completed by data analyst [your name]. The projects are divided into four categories:
+This repository contains data analysis projects completed. The projects are divided into four categories:
 
 - Data Cleaning: Projects that involve cleaning and preparing data for analysis.
 - Data Analysis: Projects that involve analyzing data to identify patterns and trends.
