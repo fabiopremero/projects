@@ -8,7 +8,7 @@ This repository contains data analysis projects completed. The projects are divi
 
 ## Data Cleaning
 Data cleaning projects involve identifying and correcting errors and inconsistencies in the data. The following projects are examples of data cleaning:
-
+ 
 - Project 1: Cleaning Fifa Dataset
 
 ## Data Analysis
