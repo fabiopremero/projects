@@ -13,8 +13,8 @@ Data cleaning projects involve identifying and correcting errors and inconsisten
 
 ## Data Analysis
 Data analysis projects involve applying statistical and analytical techniques to identify patterns and trends in the data. The following projects are examples of data analysis:
-
-- Project 1: Videogame Sales
+ 
+- Project 1: Videogame Sale s
 
 ## Data Visualization
 Data visualization projects involve creating charts and tables to communicate data insights. The following projects are examples of data visualization:
