@@ -32,11 +32,11 @@ This project analyzes eSports earnings with archives for players and one for tea
 
 ## Results and Conclusions
 - Games with Highest Earnings: the analysis identifies the games with the largest individual prize pools, highlighting the most attractive titles in eSports.
-![BoxPlot](files\teams_graphic_bar.png)
+![BoxPlot](earning_eSports_analysis\files\teams_graphic_bar.png)
 
 - Team Earnings Distribution: visualizations reveal that earnings are highly concentrated among a few elite teams, while most teams earn relatively lower amounts. The Top 5 and Bottom 5 teams are further examined to understand the types of games they participate in.
-![BoxPlot](files\boxplot.png)
-![Distribution](files\distribution_totalUSD.png)
+![BoxPlot](earning_eSports_analysis\files\boxplot.png)
+![Distribution](earning_eSports_analysis\files\distribution_totalUSD.png)
 
 - Correlation Analysis: merging the aggregated data for players and teams by game and calculating the Pearson correlation coefficient yielded a value of [insert correlation value here], suggesting [insert interpretation, e.g., a moderate/strong positive correlation between individual earnings and team performance].
 
